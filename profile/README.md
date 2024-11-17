@@ -2,8 +2,7 @@
 
 <a href="#">![views](https://komarev.com/ghpvc/?username=Radio-Yugoslavia&color=ffbe00)</a>
 
-To follow our public stats [click here]([url](https://github.com/Radio-Yugoslavia/PublicStats)).
-To follow the roadmap to MusicPress [click here]([url](https://github.com/orgs/Radio-Yugoslavia/projects/1)).
+To follow our public stats ([click here](https://github.com/Radio-Yugoslavia/PublicStats)). To follow the roadmap to MusicPress ([click here](https://github.com/orgs/Radio-Yugoslavia/projects/1)).
 
 
 <!--
